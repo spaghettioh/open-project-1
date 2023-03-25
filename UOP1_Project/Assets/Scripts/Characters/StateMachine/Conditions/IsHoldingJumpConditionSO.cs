@@ -1,6 +1,6 @@
 using UnityEngine;
 using UOP1.StateMachine;
-using UOP1.StateMachine.ScriptableObjects;
+using UOP1.StateMachine;
 
 [CreateAssetMenu(menuName = "State Machines/Conditions/Is Holding Jump")]
 public class IsHoldingJumpConditionSO : StateConditionSO<IsHoldingJumpCondition> { }

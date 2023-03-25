@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using UOP1.StateMachine;
-using UOP1.StateMachine.ScriptableObjects;
+using UOP1.StateMachine;
 
 [CreateAssetMenu(fileName = "IsActuallyMoving", menuName = "State Machines/Conditions/Is Actually Moving")]
 public class IsActuallyMovingConditionSO : StateConditionSO

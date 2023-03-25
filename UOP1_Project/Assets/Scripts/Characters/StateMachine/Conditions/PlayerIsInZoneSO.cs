@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using UOP1.StateMachine;
-using UOP1.StateMachine.ScriptableObjects;
+using UOP1.StateMachine;
 
 
 public enum ZoneType

@@ -2,7 +2,7 @@
 
 using UnityEngine;
 using UOP1.StateMachine;
-using UOP1.StateMachine.ScriptableObjects;
+using UOP1.StateMachine;
 
 [CreateAssetMenu(menuName = "State Machines/Conditions/Is Holding ExtraAction")]
 public class IsHoldingExtraActionConditionSO : StateConditionSO<IsHoldingExtraActionCondition> { }
