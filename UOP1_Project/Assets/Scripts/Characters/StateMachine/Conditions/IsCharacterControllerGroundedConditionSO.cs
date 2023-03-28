@@ -1,6 +1,6 @@
 using UnityEngine;
 using UOP1.StateMachine;
-using UOP1.StateMachine;
+using UOP1.StateMachine.ScriptableObjects;
 
 [CreateAssetMenu(menuName = "State Machines/Conditions/Is Character Controller Grounded")]
 public class IsCharacterControllerGroundedConditionSO : StateConditionSO<IsCharacterControllerGroundedCondition> { }

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using UOP1.StateMachine;
-using UOP1.StateMachine;
+using UOP1.StateMachine.ScriptableObjects;
 
 [CreateAssetMenu(menuName = "State Machines/Conditions/Has Received Event")]
 public class HasReceivedEventSO : StateConditionSO<HasReceivedEventCondition>

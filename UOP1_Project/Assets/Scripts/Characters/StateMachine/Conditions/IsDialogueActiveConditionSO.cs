@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using UOP1.StateMachine;
-using UOP1.StateMachine;
+using UOP1.StateMachine.ScriptableObjects;
 
 [CreateAssetMenu(fileName = "IsDialogueActiveCondition", menuName = "State Machines/Conditions/Is Dialogue Active Condition")]
 public class IsDialogueActiveConditionSO : StateConditionSO

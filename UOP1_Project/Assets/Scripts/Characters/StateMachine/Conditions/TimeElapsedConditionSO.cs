@@ -1,6 +1,6 @@
 using UnityEngine;
 using UOP1.StateMachine;
-using UOP1.StateMachine;
+using UOP1.StateMachine.ScriptableObjects;
 
 [CreateAssetMenu(menuName = "State Machines/Conditions/Time elapsed")]
 public class TimeElapsedConditionSO : StateConditionSO<TimeElapsedCondition>

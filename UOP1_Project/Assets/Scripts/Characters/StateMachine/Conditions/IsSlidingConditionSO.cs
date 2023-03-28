@@ -1,6 +1,6 @@
 using UnityEngine;
 using UOP1.StateMachine;
-using UOP1.StateMachine;
+using UOP1.StateMachine.ScriptableObjects;
 
 [CreateAssetMenu(fileName = "IsSliding", menuName = "State Machines/Conditions/Is Sliding")]
 public class IsSlidingConditionSO : StateConditionSO<IsSlidingCondition> { }
